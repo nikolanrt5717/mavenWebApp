@@ -19,6 +19,12 @@ public class ApiError {
         this.debugMessage = ex.getLocalizedMessage();
     }
 
+    ApiError(String message, Throwable ex) {
+        this.timestamp = LocalDateTime.now();
+        this.message = message;
+        this.debugMessage = ex.getLocalizedMessage();
+    }
+
     public HttpStatus getStatus() {
         return status;
     }

@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7fcd208a-17cb-4384-853c-9a9b52c1d29d" name="Default Changelist" comment="" />
+    <list default="true" id="7fcd208a-17cb-4384-853c-9a9b52c1d29d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +42,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -55,6 +60,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1eYX7ioGlRLXyAKftFien9VcUni" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -64,7 +70,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/Projekat1" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15332031" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -227,6 +233,8 @@
       <workItem from="1595318216281" duration="11449000" />
       <workItem from="1595404203477" duration="10090000" />
       <workItem from="1595583157057" duration="390000" />
+      <workItem from="1600455172593" duration="271000" />
+      <workItem from="1600615627712" duration="1321000" />
     </task>
     <servers />
   </component>
@@ -262,9 +270,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595195621644" />
-    <state x="1138" y="356" key="FileChooserDialogImpl" timestamp="1594889279746">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="910" y="282" key="FileChooserDialogImpl" timestamp="1600615689558">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="910" y="282" key="FileChooserDialogImpl/-1920.1.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1600615689558" />
     <state x="1138" y="356" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594889279746" />
     <state width="1877" height="126" key="GridCell.Tab.0.bottom" timestamp="1595583550527">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -318,9 +327,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="797" y="132" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594807927987" />
-    <state x="655" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1595404214640">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="524" y="273" key="com.intellij.ide.util.TipDialog" timestamp="1600615638622">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="524" y="273" key="com.intellij.ide.util.TipDialog/-1920.1.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1600615638622" />
     <state x="655" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595404214640" />
     <state x="361" y="0" width="1566" height="1047" key="dock-window-1" timestamp="1595194417510">
       <screen x="0" y="0" width="1920" height="1040" />

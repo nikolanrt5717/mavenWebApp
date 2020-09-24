@@ -11,13 +11,13 @@ public class RestExceptionHandler extends ResponseEntityExceptionHandler {
 
     @ExceptionHandler(value = {Exception.class})
     protected ResponseEntity<Object> handleException(Exception ex){
-        ApiError apiError = new ApiError(HttpStatus.NOT_FOUND,ex.getMessage(),ex);
+        ApiError apiError = new ApiError(ex.getMessage(),ex);
         return new ResponseEntity<>(apiError,apiError.getStatus());
     }
 
     @ExceptionHandler(value = {CustomException.class})
     protected ResponseEntity<Object> handleCustomException(CustomException ex){
-        ApiError apiError = new ApiError(HttpStatus.NOT_FOUND,ex.getMessage(),ex);
+        ApiError apiError = new ApiError(HttpStatus.valueOf(ex.getCode()),ex.getMessage(),ex);
         return new ResponseEntity<>(apiError,apiError.getStatus());
     }
 }
